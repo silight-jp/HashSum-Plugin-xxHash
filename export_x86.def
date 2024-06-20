@@ -1,0 +1,4 @@
+LIBRARY xxHash_x86
+EXPORTS
+   HSP_Initialize @1
+   HSP_PluginFunc @2
